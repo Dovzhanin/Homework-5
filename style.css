@@ -1,0 +1,12 @@
+.image2:hover {
+opacity: 0;
+}
+.transitions-images img {
+background: white;
+position: absolute;
+top: 37.89%;
+left: 44.575%;
+transition: opacity 2s;
+box-shadow: 0 0px 10px 10px lightgrey;
+padding: 1%;
+}
